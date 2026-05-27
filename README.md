@@ -56,24 +56,22 @@ Features used:
 ## 📸 Project Screenshots
 
 ### Correlation Heatmap
-![Heatmap](images/correlation_heatmap.png)
+![Heatmap](correlation_heatmap.png)
 
 ### Elbow Method
-![Elbow](images/elbow_method.png)
+![Elbow](elbow_method.png)
 
 ### Customer Segmentation
-![Clusters](images/customer_segments.png)
+![Clusters](customer_segments.png)
 
 ### Streamlit Home Page
-![Home](images/streamlit_home.png)
+![Home](streamlit_home.png)
 
 ### Streamlit Prediction Page
-![Prediction](images/streamlit_prediction.png)
+![Prediction](streamlit_prediction.png)
 
 ## ▶️ Run Project
 Click on this link OR open it manually in browser:
 http://localhost:8501
 This will launch the Streamlit web app.
-## ▶️ Run Project
-```bash
-streamlit run app.py
+
